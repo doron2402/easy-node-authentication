@@ -2,7 +2,7 @@
   "name": "node-authentication",
   "main": "server.js",
   "dependencies" : {
-    "express" : "~4.0.0",
+    "express" : "~4.21.1",
     "ejs" : "~0.8.5",
     "mongoose" : "~3.8.1",
     "passport" : "~0.1.17",
@@ -15,8 +15,8 @@
 
     "morgan": "~1.0.0",
     "body-parser": "~1.0.0",
-    "cookie-parser": "~1.0.0",
+    "cookie-parser": "~1.4.7",
     "method-override": "~1.0.0",
-    "express-session": "~1.0.0"
+    "express-session": "~1.18.1"
   }
 }
